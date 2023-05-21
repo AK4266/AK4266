@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building Websites.<br>👯 I’m looking to collaborate with other web developers.<br>🤝 I’m looking for help with Back-end development.<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about Front-End Development.<br>⚡ Fun fact - I'm a lazy web developer.
+🔭 I’m currently working on Building Websites.<br>👯 GSSoC'23 Open Source Contributor<br>🤝 I’m looking for help with Back-end development.<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about Front-End Development.<br>⚡ Fun fact - I'm a lazy web developer.
 
 
 ## 🌐 Socials:
